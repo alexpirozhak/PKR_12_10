@@ -1,0 +1,11 @@
+# ninja log v5
+0	2074	1716435258353522930	CMakeFiles/PKR_12_10.dir/main.cpp.o	9198d6475dadef70
+2078	2196	1716435258482424044	PKR_12_10	d2d9830da63814d6
+3	3728	1716436005496961059	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	846044c2431aa398
+0	4013	1716436005788020153	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	5768508128fca0a8
+1	6807	1716436008576012020	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	31f074d4bbdb7b10
+6808	6920	1716436008708278000	lib/libgtest.a	fa91dbdd313074f4
+6920	6976	1716436008764508000	lib/libgtest_main.a	8b1850f4895dd58d
+6976	7089	1716436008867166769	Google_tests/Google_Tests_run	b65c36c666d9d26b
+15	1578	1716436085779629532	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	5768508128fca0a8
+1579	1699	1716436085902512402	Google_tests/Google_Tests_run	b65c36c666d9d26b
